@@ -1,5 +1,5 @@
-# caustics-test
+# caustics
 
 ref: https://github.com/nemutas/caustics
 
-demo: https://zhanghuixin1103.github.io/caustics-test/
+demo: https://zhanghuixin1103.github.io/caustics/
